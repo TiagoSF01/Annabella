@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A página Anna Bella é um modelo fictício para treino das tecnologias aprendidas.
 
-- [Visite o projeto online](https://tiagosf01.github.io/project-habits/)
+- [Visite o projeto online](https://tiagosf01.github.io/Projeto-Annabella/)
 
 
 ---
